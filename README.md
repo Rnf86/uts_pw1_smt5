@@ -1,2 +1,2 @@
-# Latihan_Listview_dan_Gridview
-# UAS-PM1-smt4
+# Rizqiyana Nurhafizh_22552011099 - CV Web 
+# UTS Pemograman Web 1
